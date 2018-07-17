@@ -5,4 +5,4 @@
 
 [python requets模块详细用法一](https://www.jianshu.com/p/201b94e6e2a1)
 
-[python爬虫之requests库的详解二]（https://blog.csdn.net/sunshunli/article/details/79965891）
+[python爬虫之requests库的详解二](https://blog.csdn.net/sunshunli/article/details/79965891)
