@@ -21,3 +21,11 @@
             'PORT': '3306',
         }
     }
+    
+    
+    from django.db import connection
+    
+    cursor = connection.cursor()
+    cursor.execute("insert into book(id, name, author) value (null, '三国演义', '罗贯中')")
+    cursor.execute("select * from book")
+    rows = cursor.fetchall()
