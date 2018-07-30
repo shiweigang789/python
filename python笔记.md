@@ -35,3 +35,4 @@
     python manage.py startapp name
     创建数据映射
     python manage.py makemigrations
+    Python manage.py migrate
