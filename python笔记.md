@@ -12,12 +12,12 @@
 ##### python django链接mysql数据库 配置
     
     DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django_db1',
-        'USER': 'root',
-        'PASSWORD':'123456',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
-    }
+        'default': {
+            'ENGINE': 'django.db.backends.mysql',
+            'NAME': 'django_db1',
+            'USER': 'root',
+            'PASSWORD':'123456',
+            'HOST': '127.0.0.1',
+            'PORT': '3306',
+        }
   }
