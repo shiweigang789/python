@@ -29,3 +29,9 @@
     cursor.execute("insert into book(id, name, author) value (null, '三国演义', '罗贯中')")
     cursor.execute("select * from book")
     rows = cursor.fetchall()
+
+##### manage操作
+    创建App
+    python manage.py startapp name
+    创建数据映射
+    python manage.py makemigrations
