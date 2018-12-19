@@ -9,6 +9,8 @@
 
 [requests快速上手](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html#id10)
 
+[Python 3基础语法知识点](https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487975&idx=1&sn=a4e4fb98178d94d8fed77f41890b6061&chksm=97ea3b82a09db294b2107bf1be3a914e461de694cc2c5f142524c15458534e8074439cb26568&mpshare=1&scene=23&srcid=1219eqzRgdeBNtOKc8Vm1gAi#rd)
+
 ##### python django链接mysql数据库 配置
     
     DATABASES = {
